@@ -1,5 +1,6 @@
 .inu_no-repeat {
-	background: url('../img/inu.svg') no-repeat;
+	background: url('../img/inu.svg');
+	background-repeat: no-repeat;
 }
 
 .inu_repeat {
